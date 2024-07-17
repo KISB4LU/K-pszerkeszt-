@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1701004824 source:e:\image_editor\main.c
+	"Image.h"
+	"utils.h"
+	"debugmalloc.h"
+	"input.h"
+
+1700938962 e:\image_editor\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1700473517 e:\image_editor\stb\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1701004767 source:e:\image_editor\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb/stb_image.h"
+	"stb/stb_image_write.h"
+
+1701004779 e:\image_editor\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1700479249 e:\image_editor\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1700938452 e:\image_editor\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700996731 source:e:\image_editor\input.c
+	"input.h"
+	"image.h"
+
+1701002853 e:\image_editor\input.h
+	"image.h"
+
+1701004768 source:c:\users\balázs\desktop\image_editor\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb/stb_image.h"
+	"stb/stb_image_write.h"
+
+1701004780 c:\users\balázs\desktop\image_editor\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1700479250 c:\users\balázs\desktop\image_editor\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1700938964 c:\users\balázs\desktop\image_editor\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1700473518 c:\users\balázs\desktop\image_editor\stb\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1701004898 source:c:\users\balázs\desktop\image_editor\input.c
+	"input.h"
+	"image.h"
+
+1701002854 c:\users\balázs\desktop\image_editor\input.h
+	"image.h"
+
+1701004826 source:c:\users\balázs\desktop\image_editor\main.c
+	"Image.h"
+	"utils.h"
+	"debugmalloc.h"
+	"input.h"
+
+1700938454 c:\users\balázs\desktop\image_editor\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701331052 source:c:\users\185342\documents\image_editor\input.c
+	"input.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1701328826 c:\users\185342\documents\image_editor\input.h
+	"image.h"
+
+1701328826 c:\users\185342\documents\image_editor\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1701330357 source:c:\users\185342\documents\image_editor\main.c
+	"Image.h"
+	"utils.h"
+	"debugmalloc.h"
+	"input.h"
+
+1701328827 c:\users\185342\documents\image_editor\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1701328826 c:\users\185342\documents\image_editor\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701331408 source:c:\users\185342\documents\image_editor\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb/stb_image.h"
+	"stb/stb_image_write.h"
+
+1701328827 c:\users\185342\documents\image_editor\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1701328827 c:\users\185342\documents\image_editor\stb\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1701602443 source:c:\users\balázs\desktop\progamozás\c language\image_editor\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb/stb_image.h"
+	"stb/stb_image_write.h"
+
+1701602444 c:\users\balázs\desktop\progamozás\c language\image_editor\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1701602446 c:\users\balázs\desktop\progamozás\c language\image_editor\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1701602452 c:\users\balázs\desktop\progamozás\c language\image_editor\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1701602453 c:\users\balázs\desktop\progamozás\c language\image_editor\stb\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1701602445 source:c:\users\balázs\desktop\progamozás\c language\image_editor\input.c
+	"input.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1701602445 c:\users\balázs\desktop\progamozás\c language\image_editor\input.h
+	"image.h"
+
+1701602446 source:c:\users\balázs\desktop\progamozás\c language\image_editor\main.c
+	"Image.h"
+	"utils.h"
+	"debugmalloc.h"
+	"input.h"
+
+1701602443 c:\users\balázs\desktop\progamozás\c language\image_editor\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
